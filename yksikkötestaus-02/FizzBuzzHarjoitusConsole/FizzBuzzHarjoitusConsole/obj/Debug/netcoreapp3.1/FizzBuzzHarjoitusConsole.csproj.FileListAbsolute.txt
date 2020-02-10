@@ -1,0 +1,11 @@
+C:\Users\Marko\source\repos\FizzBuzzHarjoitusConsole\FizzBuzzHarjoitusConsole\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitusConsole.exe
+C:\Users\Marko\source\repos\FizzBuzzHarjoitusConsole\FizzBuzzHarjoitusConsole\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitusConsole.deps.json
+C:\Users\Marko\source\repos\FizzBuzzHarjoitusConsole\FizzBuzzHarjoitusConsole\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitusConsole.runtimeconfig.json
+C:\Users\Marko\source\repos\FizzBuzzHarjoitusConsole\FizzBuzzHarjoitusConsole\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitusConsole.runtimeconfig.dev.json
+C:\Users\Marko\source\repos\FizzBuzzHarjoitusConsole\FizzBuzzHarjoitusConsole\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitusConsole.dll
+C:\Users\Marko\source\repos\FizzBuzzHarjoitusConsole\FizzBuzzHarjoitusConsole\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitusConsole.pdb
+C:\Users\Marko\source\repos\FizzBuzzHarjoitusConsole\FizzBuzzHarjoitusConsole\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitusConsole.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\FizzBuzzHarjoitusConsole\FizzBuzzHarjoitusConsole\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitusConsole.AssemblyInfoInputs.cache
+C:\Users\Marko\source\repos\FizzBuzzHarjoitusConsole\FizzBuzzHarjoitusConsole\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitusConsole.AssemblyInfo.cs
+C:\Users\Marko\source\repos\FizzBuzzHarjoitusConsole\FizzBuzzHarjoitusConsole\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitusConsole.dll
+C:\Users\Marko\source\repos\FizzBuzzHarjoitusConsole\FizzBuzzHarjoitusConsole\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitusConsole.pdb
