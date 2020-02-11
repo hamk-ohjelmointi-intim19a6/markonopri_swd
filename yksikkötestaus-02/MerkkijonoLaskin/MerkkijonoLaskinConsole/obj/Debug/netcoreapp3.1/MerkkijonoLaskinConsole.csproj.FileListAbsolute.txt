@@ -1,0 +1,11 @@
+/Users/markonopri/Projects/MerkkijonoLaskin/MerkkijonoLaskinConsole/bin/Debug/netcoreapp3.1/MerkkijonoLaskinConsole
+/Users/markonopri/Projects/MerkkijonoLaskin/MerkkijonoLaskinConsole/bin/Debug/netcoreapp3.1/MerkkijonoLaskinConsole.deps.json
+/Users/markonopri/Projects/MerkkijonoLaskin/MerkkijonoLaskinConsole/bin/Debug/netcoreapp3.1/MerkkijonoLaskinConsole.runtimeconfig.json
+/Users/markonopri/Projects/MerkkijonoLaskin/MerkkijonoLaskinConsole/bin/Debug/netcoreapp3.1/MerkkijonoLaskinConsole.runtimeconfig.dev.json
+/Users/markonopri/Projects/MerkkijonoLaskin/MerkkijonoLaskinConsole/bin/Debug/netcoreapp3.1/MerkkijonoLaskinConsole.dll
+/Users/markonopri/Projects/MerkkijonoLaskin/MerkkijonoLaskinConsole/bin/Debug/netcoreapp3.1/MerkkijonoLaskinConsole.pdb
+/Users/markonopri/Projects/MerkkijonoLaskin/MerkkijonoLaskinConsole/obj/Debug/netcoreapp3.1/MerkkijonoLaskinConsole.csprojAssemblyReference.cache
+/Users/markonopri/Projects/MerkkijonoLaskin/MerkkijonoLaskinConsole/obj/Debug/netcoreapp3.1/MerkkijonoLaskinConsole.AssemblyInfoInputs.cache
+/Users/markonopri/Projects/MerkkijonoLaskin/MerkkijonoLaskinConsole/obj/Debug/netcoreapp3.1/MerkkijonoLaskinConsole.AssemblyInfo.cs
+/Users/markonopri/Projects/MerkkijonoLaskin/MerkkijonoLaskinConsole/obj/Debug/netcoreapp3.1/MerkkijonoLaskinConsole.dll
+/Users/markonopri/Projects/MerkkijonoLaskin/MerkkijonoLaskinConsole/obj/Debug/netcoreapp3.1/MerkkijonoLaskinConsole.pdb

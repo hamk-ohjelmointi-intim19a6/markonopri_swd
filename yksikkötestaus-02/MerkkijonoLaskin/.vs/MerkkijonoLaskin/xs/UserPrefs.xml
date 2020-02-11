@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{496960EB-6324-42B9-B62C-077B40C7B403}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MerkkijonoLaskinConsole/Program.cs">
+    <Files>
+      <File FileName="MerkkijonoLaskinConsole/Program.cs" Line="13" Column="17" />
+      <File FileName="MerkkijonoLaskinConsole/MerkkijonoLaskin.cs" />
+      <File FileName="MerkkijonoLaskinTests/MerkkijonoLaskinTests.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MerkkijonoLaskin" expanded="True" selected="True">
+            <Node name="MerkkijonoLaskinConsole" expanded="True" />
+            <Node name="MerkkijonoLaskinTests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MerkkijonoLaskinConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
